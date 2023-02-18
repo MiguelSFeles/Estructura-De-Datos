@@ -1,8 +1,12 @@
+
+Temas opcionales que propuso el profe
+
+
 Tema 1: cuánto se demora en salir la tarea
 
 Tema 2: Recursión pasar iterativo a recursivo
 
-Tema 3: Ordenar algo por burbujar
+Tema 3: puede ser Ordenar algo por burbujas
 
 Tema 4: Pilas y colas
 
